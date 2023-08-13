@@ -14,6 +14,9 @@ STAM (Spatiotemporal Attention Model)
 
 # Acknowledgments
 A special shoutout to the authors of the papers that inspired this project. Their groundbreaking work paved the way for this research:
+
 "WaveNet: A Generative Model for Raw Audio" by A¨aron van den Oord et al.
+
 "Spatiotemporal Attention for Multivariate Time Series Prediction and Interpretation" by Tryambak Gangopadhyay et al.
+
 "Application of Long Short-Term Memory (LSTM) Neural Network for Flood Forecasting" by Xuan-Hien Le et al.
